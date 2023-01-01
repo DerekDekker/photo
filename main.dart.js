@@ -18021,7 +18021,7 @@ o=J
 n=B.aP
 m=B.F
 s=3
-return A.a8(A.arG(A.apf("https","www.wpdaxue.com","/wp-json/wp/v2/media",A.aU(["page",B.f.h(a)],p,p))),$async$a8A)
+return A.a8(A.arG(A.apf("https","derekdekker.com","/wp-json/wp/v2/media",A.aU(["page",B.f.h(a)],p,p))),$async$a8A)
 case 3:q=o.NJ(n.FU(0,m.dj(0,c.w),null),new A.a8B(),t.zi).dJ(0)
 s=1
 break
